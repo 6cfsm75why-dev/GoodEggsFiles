@@ -46,6 +46,15 @@
         ],
         "dateAdded": "2026-06-14T10:23:44.545Z",
         "classified": false
+      },
+      {
+        "id": "mqdob092ut5j2",
+        "name": "Messages",
+        "type": "folder",
+        "nodeType": "folder",
+        "children": [],
+        "dateAdded": "2026-06-14T11:00:35.462Z",
+        "classified": false
       }
     ]
   }
