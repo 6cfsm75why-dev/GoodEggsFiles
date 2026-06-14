@@ -31,7 +31,19 @@
         "name": "Images",
         "type": "folder",
         "nodeType": "folder",
-        "children": [],
+        "children": [
+          {
+            "id": "mqdnk5z8cek87",
+            "name": "IMG_3868.jpeg",
+            "caption": "Cig",
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "data": "https://raw.githubusercontent.com/6cfsm75why-dev/GoodEggsFiles/main/evidence/joseph-wregglesworth/Images/IMG_3868.jpeg",
+            "dateAdded": "2026-06-14T10:39:43.175Z",
+            "nodeType": "file",
+            "size": 40587
+          }
+        ],
         "dateAdded": "2026-06-14T10:23:44.545Z",
         "classified": false
       }
