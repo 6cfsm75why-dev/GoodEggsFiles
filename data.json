@@ -1,0 +1,75 @@
+[
+  {
+    "id": "mqdk1mxz57gld",
+    "name": "Tsy",
+    "alias": "The est",
+    "code": "Test",
+    "threat": "low",
+    "location": "Test",
+    "status": "Active",
+    "description": "Test",
+    "notes": "Test",
+    "photoUrl": "",
+    "dateAdded": "2026-06-14T09:01:19.847Z",
+    "fileTree": []
+  },
+  {
+    "id": "mqdmowh1cp6pv",
+    "name": "Joseph Wregglesworth",
+    "alias": "Wreggy",
+    "code": "JSW-001",
+    "threat": "extreme",
+    "location": "Eastfield Avenue",
+    "status": "Under Surveillance",
+    "description": "- 3 Counts Of Child Molestation \n- 2 Counts Of Indecent Images Of Horses \n- 4 Counts of Battery \n- 2 Counts Of Domestic Assault",
+    "notes": "Known Strengths \n- Alcohol \n- Strength \n- Chanting Known\nWeaknesses \n- Circuit Tarts \n- Vodka",
+    "photoUrl": "https://i.postimg.cc/x8Kh4rRs/IMG-4005.png",
+    "dateAdded": "2026-06-14T10:15:24.517Z",
+    "fileTree": [
+      {
+        "id": "mqdmzmaplawv3",
+        "name": "Images",
+        "type": "folder",
+        "nodeType": "folder",
+        "children": [
+          {
+            "id": "mqdnk5z8cek87",
+            "name": "IMG_3868.jpeg",
+            "caption": "Cig",
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "data": "https://raw.githubusercontent.com/6cfsm75why-dev/GoodEggsFiles/main/evidence/joseph-wregglesworth/Images/IMG_3868.jpeg",
+            "dateAdded": "2026-06-14T10:39:43.175Z",
+            "nodeType": "file",
+            "size": 40587
+          }
+        ],
+        "dateAdded": "2026-06-14T10:23:44.545Z",
+        "classified": false
+      },
+      {
+        "id": "mqdob092ut5j2",
+        "name": "Messages",
+        "type": "folder",
+        "nodeType": "folder",
+        "children": [],
+        "dateAdded": "2026-06-14T11:00:35.462Z",
+        "classified": false
+      }
+    ]
+  },
+  {
+    "id": "mqdqbm3r7atmq",
+    "name": "Test",
+    "alias": "Test",
+    "code": "Test",
+    "threat": "low",
+    "location": "Test",
+    "status": "Active",
+    "description": "Test",
+    "notes": "Test",
+    "photoUrl": "",
+    "dateAdded": "2026-06-14T11:57:03.016Z",
+    "fileTree": []
+  }
+]
