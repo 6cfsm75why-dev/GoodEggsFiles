@@ -55,17 +55,6 @@
         "children": [],
         "dateAdded": "2026-06-14T11:00:35.462Z",
         "classified": false
-      },
-      {
-        "id": "mqdod17fveqlw",
-        "name": "chat_transcription.pdf",
-        "caption": "Wreggy-Kirk-Chats",
-        "type": "doc",
-        "mimeType": "application/pdf",
-        "data": "https://raw.githubusercontent.com/6cfsm75why-dev/GoodEggsFiles/main/evidence/joseph-wregglesworth/chat_transcription.pdf",
-        "dateAdded": "2026-06-14T11:02:10.012Z",
-        "nodeType": "file",
-        "size": 1907
       }
     ]
   }
